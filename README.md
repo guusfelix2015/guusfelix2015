@@ -9,9 +9,7 @@
 
 ---
 
-Atualmente estou estudando tecnologias pra Frontend.
-
-Também mexo um pouco com a parte do backend com NodeJS.
+Atualmente estou estudando programação por meio do @Rocketseat.
 
 ## Tecnologias🖥️
 
