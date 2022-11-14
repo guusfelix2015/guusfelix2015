@@ -1,35 +1,31 @@
-<img src="https://baltaio.blob.core.windows.net/static/images/dark/home-hero-illustration.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador guusfelix2015">
-
-### Hi, I'm Gustavo! :D
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavoabel10/)](https://www.linkedin.com/in/gustavofelixsilva/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?&style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavoabel.contato@gmail.com)](mailto:engcfelix@gmail.com)
-- ### Software Developer.
-I've been in the development world since 2020, where I started my studies with HTML and CSS and I always try to improve my knowledge. 
-- 💻 Front-End Developer
-- 👀 Looking for an opportunity as an intern in the development area.
-- ⚡ **Currently mastering**: Javascript, Reactjs, NextJs, Typescript, Git, Strapi, Styled-Components.
-- 🚀  **My goals**: live from programming evolving every day always aiming for the full stack and also using and helping people to program.
-- 💬 We can talk about anything on my discord: Gusta#5535
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gustavo+Felix;I'm+27+years+old;I+from+Patrocínio,+MG;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-### Languages and Tools
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=guusfelix2015&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo Felix github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guusfelix2015&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="30" height="30"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="yarn" width="30" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="yarn" width="30" height="30" />
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guusfelix2015&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="guusfelix2015" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guusfelix2015&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top langs" />
-</p>
+![Contribution](https://activity-graph.herokuapp.com/graph?username=guusfelix2015&theme=gotham&hide_border=true&area=true)
 
 <p align="center">
-    <a href="https://github.com/guusfelix2015" target="_blank"><img alt="guusfelix2015" src="https://badges.pufler.dev/visits/guusfelix2015/guusfelix2015?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=guusfelix2015&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
+ 
+### Main skills:
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
+ 
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{guusfelix2015}/count.svg" /></p> 
+<br></div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
