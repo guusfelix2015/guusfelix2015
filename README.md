@@ -6,9 +6,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?&style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavoabel.contato@gmail.com)](mailto:engcfelix@gmail.com)
 - ### Software Developer.
 I've been in the development world since 2020, where I started my studies with HTML and CSS and I always try to improve my knowledge. 
-- 💻 Full Stack Developer
+- 💻 Front-End Developer
 - 👀 Looking for an opportunity as an intern in the development area.
-- ⚡ **Currently mastering**: Javascript, Nodejs, Reactjs, Typescript, Git, NodeJS, PostgreSQL.
+- ⚡ **Currently mastering**: Javascript, Reactjs, NextJsm, Typescript, Git, Strapi, Styled-Components.
 - 🚀  **My goals**: live from programming evolving every day always aiming for the full stack and also using and helping people to program.
 - 💬 We can talk about anything on my discord: Gusta#5535
 
